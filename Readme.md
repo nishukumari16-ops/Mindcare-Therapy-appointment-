@@ -16,4 +16,4 @@ MindCare is a full-stack therapy appointment booking application.
 - Node.js
 - Express.js
 - MongoDB
-- JWT Authentication
+    - JWT Authentication
